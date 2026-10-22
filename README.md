@@ -1,6 +1,6 @@
 # 🩸 Blood Bank Management System
 
-A console-based Blood Bank Management System developed in **C++ language**.
+A console-based Blood Bank Management System developed in **C++** language.
 
 The application allows hospitals or blood banks to manage donor records efficiently using file handling and basic data management techniques.
 

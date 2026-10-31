@@ -44,7 +44,6 @@ Blood-Bank-Management-System
 │   └── main.cpp
 ├── data
 │   └── donors.txt
-├── screenshots
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md

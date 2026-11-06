@@ -2,7 +2,7 @@
 
 A console-based Blood Bank Management System developed in **C++** language.
 
-The application allows hospitals or blood banks to manage donor records efficiently using file handling and basic data management techniques.
+The application allows hospitals or blood banks to manage donor records efficiently with the help of file handling and basic data management techniques.
 
 ---
 
